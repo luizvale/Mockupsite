@@ -1,0 +1,86 @@
+
+body{ 
+    margin: 0px 125px 0px 50px; 
+}
+
+.title{ 
+    position: relative;
+    top: 20px;
+    max-width: 100%;
+}
+#logo-img{ 
+    position: relative;
+    top: 10px;
+}
+
+.logo-title{
+    font-family: 'Thasadith', sans-serif;
+    margin-top: 50px;
+    float: right;
+    width: 500px;
+    max-width: 100%;
+}
+hr{
+    background-color: #578;
+    margin-top: 10px;
+    height: 3px;
+    width: 952.5px;
+    max-width: 100%;
+}
+.img1{ 
+    margin-top: 10px;
+    max-width: 100%; 
+}
+        
+.center{ float: right; }
+        
+aside{
+    position: relative;
+    top: 350px;
+    left: 55.5px;
+}
+.section1{
+    margin-top: 150px;
+    float: right;
+    display: flex;
+    flex-direction: row;
+}
+#feature-works{ 
+    position: relative;
+    bottom: 50px;
+    right: -25px;
+    font-size: 35px;
+    font-family: 'Thasadith', sans-serif;
+}
+#featured{
+    position: relative;
+    bottom: 43.5px;
+}
+.img{ 
+    float: left;
+    margin-left: 27.5px;
+    max-width: 100%;
+}
+.links{
+    min-width: 48px;
+    min-height: 48px;
+}
+#solid1{
+    background-color: #02b3e4;
+    width: 70px;
+    height: 70px;
+}
+#solid2{
+    background-color: #2d3c49;
+    width: 70px;
+    height: 70px;
+}
+#solid3{
+    background-color: #7d97ad;
+    width: 70px;
+    height: 70px;
+}
+aside{
+    position: relative;
+    top: 250px;
+}
